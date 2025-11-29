@@ -1,3 +1,7 @@
+Title screen:                      | Main screen:
+:-----------------------------:|:-----------------------------:
+![](images/title.jpg)          | ![](images/main.jpg)
+
 ## 🚀 How to Run
 
 1. **Setup Dependencies**:
